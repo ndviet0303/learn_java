@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LogicOperator",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.LogicOperator",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "BreakAContinue",
             "request": "launch",
             "mainClass": "com.mycompany.app.w3schools.caseJava.BreakAContinue",
