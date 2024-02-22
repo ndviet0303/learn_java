@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exponential",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.Exponential",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Literals",
             "request": "launch",
             "mainClass": "com.mycompany.app.books.Literals",
