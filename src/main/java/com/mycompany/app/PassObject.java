@@ -1,3 +1,5 @@
+package com.mycompany.app;
+
 public class PassObject {
     static void f(Number m) {
     m.i = 15;
