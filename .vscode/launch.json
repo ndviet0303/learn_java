@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShortCircuit",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.ShortCircuit",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "LogicOperator",
             "request": "launch",
             "mainClass": "com.mycompany.app.books.LogicOperator",
