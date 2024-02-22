@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PassObject",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.PassObject",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Assignment2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Assignment2",
