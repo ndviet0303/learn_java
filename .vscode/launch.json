@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "E5P93",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.E5P93",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Exponential",
             "request": "launch",
             "mainClass": "com.mycompany.app.books.Exponential",
