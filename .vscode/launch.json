@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Literals",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.Literals",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "ShortCircuit",
             "request": "launch",
             "mainClass": "com.mycompany.app.books.ShortCircuit",
