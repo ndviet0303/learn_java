@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.w3schools.caseJava.Switch",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "EachLoop",
             "request": "launch",
             "mainClass": "com.mycompany.app.w3schools.interaction.EachLoop",
