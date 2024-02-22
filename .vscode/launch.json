@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "E6P93",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.books.E6P93",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "E5P93",
             "request": "launch",
             "mainClass": "com.mycompany.app.books.E5P93",
