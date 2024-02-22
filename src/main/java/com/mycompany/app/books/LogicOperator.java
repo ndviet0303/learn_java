@@ -23,6 +23,7 @@ public class LogicOperator {
                 + ((i < 10) && (j < 10)));
         print("(i < 10) || (j < 10) is "
                 + ((i < 10) || (j < 10)));
+                
     }
 
     private static void print(String string) {
