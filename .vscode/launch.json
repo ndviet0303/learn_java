@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.w3schools.interaction.ForLoop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "com.mycompany.app.w3schools.interaction.WhileLoop",
